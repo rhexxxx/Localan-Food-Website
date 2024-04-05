@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.bg-yel{
+    background-color: #9DBC98;
+}
+
+.bg-standart{
+    background-color: #F2F1EB ;
+}
+
+h1{
+    font-weight: 800;
+}
+
+.logo{
+    font-family: "Trochut", sans-serif;
+    font-weight: 700;
+    color: #527853;
+}
+
+.navbar-brand span{
+    color: #EE7214;
+}
+
+.navbar{
+    font-weight: 600;
+    background-color: #F2F1EB;
+}
+
+.main-content{
+    background-color: #F9EFDB;
+} 
+
+.foto{
+    top: 538px;
+    right: 112px;
+}
+
+.main-banner{
+    width: 100%;
+    align-items: center;
+}
+
+.explanation{
+    padding: 70px 35px;
+    width: 70%;
+    background-color: #638889;
+    color: #F2F1EB;
+}
+
+.explanation span{
+    color: #EE7214;
+}
+
+.explanation h1{
+    font-weight: 800;
+    margin-left: 20px;
+}
+
+.explanation p{
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 20px;
+}
+
+.banner-img{
+    width: 50%;
+    margin-left: 30px;
+}
+
+.main-menu{
+    background-color: #F2F1EB;
+}
+
+.catalog-title h1{
+    font-size: 50px;
+}
+
+.catalog-title h5{
+    margin: 10px 15%;
+}
+
+.go-to-btn{
+    margin-top: 30px;
+}
+
+.carousel{
+    background-color: #F2F1EB;
+}
+
+.footer{
+    background-color: #F2F1EB;
+}
+
+/* makanan */
+
+.makanan1 img{
+    width: 600px;
+}
